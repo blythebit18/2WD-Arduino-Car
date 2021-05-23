@@ -1,4 +1,4 @@
-                                             2WD Arduino Avoiding Obstacle Car
+                                          2WD Arduino Avoiding Obstacle Car
                                                           
 ![WhatsApp Image 2021-05-04 at 22 57 02](https://user-images.githubusercontent.com/61658325/119260864-5910d380-bc07-11eb-98ae-d3c963ff5d08.jpeg)
 
@@ -15,7 +15,7 @@ Specification:
 
 4) I will provide the schematic in the Projects tab above (feel free to look at it).
 
-                                                    CIRCUIT CONNECTION
+                                               CIRCUIT CONNECTION
                                                     
 ![circuitConnection](https://user-images.githubusercontent.com/61658325/119263268-f58ba380-bc10-11eb-8ff5-1a5f9eea473e.jpg)
 
