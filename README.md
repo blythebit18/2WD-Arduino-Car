@@ -17,8 +17,7 @@ Specification:
 
                                                CIRCUIT CONNECTION
                                                     
-![circuitConnection](https://user-images.githubusercontent.com/61658325/119263268-f58ba380-bc10-11eb-8ff5-1a5f9eea473e.jpg)
-
+![circuit_connection](https://user-images.githubusercontent.com/61658325/147874207-23c5fc4b-7b39-4d30-ad16-b1f289f8bce4.jpg)
 
 
 
